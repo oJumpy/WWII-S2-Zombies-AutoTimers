@@ -1,4 +1,4 @@
-# [Download v1.1](https://github.com/oJumpy/WWII-Zombies-AutoTimers/releases/download/v1.1/WWII-Master.-.1.1.asl)
+# [Download v1.2](https://github.com/oJumpy/WWII-Zombies-AutoTimers/releases/download/v1.2/WWII-Master.-.1.2.asl)
 
 # WWII-Zombies-AutoTimers
 A multi-functional LiveSplit script for Call of Duty: WWII Zombies.
