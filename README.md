@@ -12,21 +12,21 @@ A multi-functional LiveSplit script for Call of Duty: WWII Zombies.
 ## Trackers
 
 ### Options Panel
-| Tracker | Description | Max Value |
-|---------|-------------|-----------|
-| Reset Value | Reset timer raw value | 2147483647 |
-| Reset Timer | Estimated time until reset | Calculated |
-| Entities | Entity count | Variable |
-| Server Restart | Server restart timer | 1879048192 |
-| AgentSnapshot | Agent snapshot counter | 2147483647 |
+| Tracker | Max Value |
+|---------|-----------|
+| Reset Value | 2147483647 |
+| Reset Timer | Calculated |
+| Entities | Variable |
+| Server Restart | 1879048192 |
+| AgentSnapshot | 2147483647 |
 
 ### Error Trackers  
-| Tracker | Description | Max Value |
-|---------|-------------|-----------|
-| G-Spawn | G-Spawn entity count | 2046 |
-| LuiTween | LUI tween counter | 999 |
-| Lua Error | Lua script memory usage | 2048 KB |
-| Anims | Animation counter | 4096 |
+| Tracker | Max Value |
+|---------|-----------|
+| G-Spawn | 2046 |
+| LuiTween | 999 |
+| Lua Error | 2048 KB |
+| Anims | 4096 |
 
 ## Setup
 1. Download Livesplit [Site](https://livesplit.org/downloads/) or [Direct Link](https://github.com/LiveSplit/LiveSplit/releases/download/1.8.33/LiveSplit_1.8.33.zip)
