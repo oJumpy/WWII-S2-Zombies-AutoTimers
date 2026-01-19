@@ -1,4 +1,4 @@
-# [Download v1.2](https://github.com/oJumpy/WWII-Zombies-AutoTimers/releases/download/v1.2/WWII-Master.-.1.2.asl)
+# [Download v1.3](https://github.com/oJumpy/WWII-S2-Zombies-AutoTimers/releases/download/v1.3/WWII-Master.-.1.3.asl)
 
 # WWII-Zombies-AutoTimers
 A multi-functional LiveSplit script for Call of Duty: WWII Zombies.
@@ -21,12 +21,15 @@ A multi-functional LiveSplit script for Call of Duty: WWII Zombies.
 | AgentSnapshot | 2147483647 |
 
 ### Error Trackers  
-| Tracker | Max Value |
-|---------|-----------|
-| G-Spawn | 2046 |
-| LuiTween | 999 |
-| Lua Error | 2048 KB |
-| Anims | 4096 |
+| Tracker | Max Value | Overflow/Crash Result |
+|---------|-----------|:-----------------------|
+| G-Spawn | 2046 | Kicked with Error Message 674 |
+| LuiTween | 999 | Fatal Error: "845 LUITween" |
+| LUI Error | 2048 KB | Fatal Error: "LUI ERROR: Failed to allocate from LUITween pool. Restarting the Lua VM" |
+| Anims | 4096 | Fatal Error: "exceeded maximum number of anim info" |
+| Script Vars | 65536 | Game instantly closes |
+| Script Stack | 30 | Game acts like DC/CI then closes itself |
+| Script String | 65536 | Game freezes |
 
 ## Setup
 1. Download Livesplit [Site](https://livesplit.org/downloads/) or [Direct Link](https://github.com/LiveSplit/LiveSplit/releases/download/1.8.33/LiveSplit_1.8.33.zip)
