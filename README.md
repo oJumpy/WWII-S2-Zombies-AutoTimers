@@ -1,5 +1,5 @@
 > [!WARNING]
-> # ⚠️ Script Currently Broken (WWII Update – February 12, 2026)
+> # ⚠️ Script Currently Broken
 > Due to the latest update of Call of Duty: WWII on February 12, 2026, this LiveSplit script is currently **not working**.
 > 
 > Since the game is also partially unplayable due to DLC issues, another update is likely to happen.
