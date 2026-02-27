@@ -1,12 +1,8 @@
-> [!WARNING]
-> # ⚠️ Script Currently Broken
-> Due to the latest update of Call of Duty: WWII on February 12, 2026, this LiveSplit script is currently **not working**.
-> 
-> Since the game is also partially unplayable due to DLC issues, another update is likely to happen.
-> 
-> Until the game is stable again, I will not be updating or fixing the script.
+# [Download v1.4](https://github.com/oJumpy/WWII-S2-Zombies-AutoTimers/releases/download/v1.4/WWII-Master.-.v1.4.asl)
 
-## [Download v1.3](https://github.com/oJumpy/WWII-S2-Zombies-AutoTimers/releases/download/v1.3/WWII-Master.-.1.3.asl)
+> [!WARNING]
+> ### ⚠️ Script Currently Broken
+> Due to the latest update of Call of Duty: WWII on February 12, 2026, some old feature are currently **not working**.
 
 ## WWII-Zombies-AutoTimers
 A multi-functional LiveSplit script for Call of Duty: WWII Zombies.
